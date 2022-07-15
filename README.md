@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Marcos Santos Here!</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosfsantos&label=Profile%20views&color=0e75b6&style=flat" alt="marcosfsantos" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcosfsantos&label=Profile%20views&color=0e75b6&style=flat" alt="marcosfsantos" /> </p>
 
 - 📫 How to reach me **marcos.franca1673@gmail.com**
 
@@ -25,6 +25,6 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFSantos&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="MarcosFSantos" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFSantos&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="MarcosFSantos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosFSantos&theme=highcontrast&show_icons=true&show_icons=true&locale=en" alt="MarcosFSantos" /></p>
